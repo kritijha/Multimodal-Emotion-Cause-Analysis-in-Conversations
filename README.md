@@ -36,3 +36,9 @@ The framework's performance was evaluated on the multimodal Emotion-Cause-in-Fri
 
 The results highlight the challenges and complexities inherent in multimodal emotion analysis, emphasizing the need for further exploration of model architectures and fusion techniques to improve accuracy and understanding in emotion and cause pair prediction tasks.
 
+## Contributors
+This project was created by the following people:
+
+1. Anuranjan Pandey
+2. Kriti Jha
+3. Sweta Singh
